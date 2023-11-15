@@ -1,0 +1,7 @@
+1. Insert another row for new accredition number
+2. Printing of Invoice shoot print should be based on date issued (Document Date >= Date Issued).
+
+Applied to All marketing Documents..
+
+3. Check BP for Group if Branch Store is selected, user cannot print shootprint else print in Menu   (BTIF,BTRF)
+   Application for AR INVOICE and AR CM (check guide BP Groups for Shootprint)

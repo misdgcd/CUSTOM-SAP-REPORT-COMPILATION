@@ -1,0 +1,7 @@
+1. Change Classfication from Gensan to Distribution Center for Chart of Accounts.
+
+Follow Screenshot Guide.
+Change SS to DCM
+ex. DGSSBI-SS TO DGSSBI-DCM
+
+2. Form Menus and Report access per User (Form Form Setting from apopong related users)

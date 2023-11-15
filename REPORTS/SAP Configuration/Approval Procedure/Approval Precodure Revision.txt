@@ -1,0 +1,7 @@
+1. Check Approval Stages - CS Originator
+2. Goods Issue - Add GSCSBI-SS
+3. Goods Receipt - Add GSCSBI-SS
+4. GR_ADJ - Add GSCSBI-SS
+5. INV Transfer Req - Add GSCSBI-SS
+6. SO_OC_MD  - Add GSCSBI-SS,Add GSCSBI-SC1, Add GSCSBI-SC2
+7. SQ_PD-MD - Add GSCSBI-SC1, Add GSCSBI-SC2

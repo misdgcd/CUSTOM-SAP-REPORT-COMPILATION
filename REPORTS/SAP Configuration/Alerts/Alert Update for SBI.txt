@@ -1,0 +1,4 @@
+1. Change Alert from DC Gensan to Safetybuild, Inc. Gensan
+2. Change User From DCGSC-MGR to DGSSBI-SS for Existing Alert Only. 
+   If no Alert for SBI Manager Create New.
+3. Check Alert Query for SBI Check Branch Assignment/Warehouse/Store Performance
